@@ -1,0 +1,7 @@
+opencv-python       # Computer vision and image processing
+mediapipe          # Hand and pose detection framework
+numpy              # Numerical computing and array operations
+pickle             # Model serialization
+tkinter            # GUI framework (usually comes with Python)
+pyttsx3           # Text-to-speech conversion
+Pillow            # Image processing library
